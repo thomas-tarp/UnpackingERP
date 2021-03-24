@@ -1,0 +1,26 @@
+{
+  "id": "1dedd570-72a7-41db-8858-8a11e2c1463d",
+  "name": "TechTalk",
+  "publisher": "Netcompany",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://TechTalk.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
